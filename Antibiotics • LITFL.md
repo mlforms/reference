@@ -1,0 +1,19 @@
+| DRUG | CLASS | TOPIC |
+| --- | --- | --- |
+| [Ceftriaxone](https://litfl.com/pharm-101-ceftriaxone/) | Antibiotic | ABX |
+| [Gentamicin](https://litfl.com/pharm-101-gentamicin/) | Antibiotic | ABX |
+| [Penicillin G](https://litfl.com/pharm-101-penicillin/) | Antibiotic | ABX |
+| [Azithromycin](https://litfl.com/pharm-101-azithromycin/) | Antibiotic | ABX |
+| [Cephazolin](https://litfl.com/pharm-101-cephazolin/) | Antibiotic | ABX |
+| [Cefuroxime](https://litfl.com/pharm-101-cefuroxime/) | Antibiotic | ABX |
+| [Cefepime](https://litfl.com/pharm-101-cefepime/) | Antibiotic | ABX |
+| [Chloramphenicol](https://litfl.com/pharm-101-chloramphenicol/) | Antibiotic | ABX |
+| [Ciprofloxacin](https://litfl.com/pharm-101-ciprofloxacin/) | Antibiotic | ABX |
+| [Doxycycline](https://litfl.com/pharm-101-doxycycline/) | Antibiotic | ABX |
+| [Flucloxacillin](https://litfl.com/pharm-101-penicillin/) | Antibiotic | ABX |
+| [Erythromycin](https://litfl.com/pharm-101-erythromycin/) | Antibiotic | ABX |
+| [Metronidazole](https://litfl.com/pharm-101-metronidazole/) | Antibiotic | ABX |
+| [Trimethoprim](https://litfl.com/pharm-101-trimethoprim/) | Antibiotic | ABX |
+| [Vancomycin](https://litfl.com/pharm-101-vancomycin/) | Antibiotic | ABX |
+| [Rifampicin](https://litfl.com/pharm-101-rifampicin/) | Antibiotic | ABX |
+| [TMP-SMX](https://litfl.com/pharm-101-trimethoprim-sulfamethoxazole-2/) | Antibiotic | ABX |

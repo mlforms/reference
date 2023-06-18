@@ -1,0 +1,5 @@
+![a2e82724e5fbfe3fbc626a065a542531.png](../_resources/a2e82724e5fbfe3fbc626a065a542531.png)
+
+Adenosine has an excellent safety profile and is often the drug of choice to treat hemodynamically stable patients with a narrow complex paroxysmal supraventricular tachycardia. It has an ultrashort half-life (< 10 sec) and lacks the vaso- and myocardial depressant effects of some other atrioventricular nodal agents. Although it produces side effects (flushing, dyspnea, and chest pain), they are transient. Adenosine has several drug interactions. Its effects are antagonized by methylxanthines (theophylline, caffeine) since they prevent binding of adenosine at receptor sites. Therefore, large doses of adenosine may be required in the presence of methylxanthines.
+
+Cardiac transplant patients will need lower dose of adenosine, the denervated donor atria and ventricles demonstrate increased sensitivity to adenosine.
